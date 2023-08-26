@@ -60,7 +60,8 @@ Pygame
 * Naruto Vs Sasuke III Stage - https://www.deviantart.com/rbm-kyuubi/art/Naruto-Vs-Sasuke-Stage-III-637692675
 * Kaguya Moon Seal - https://www.deviantart.com/rbm-kyuubi/art/Stage-Kaguya-Moom-Seal-HD-594407292
 
-
+# How to Use
+* Ensure you have Pygame installed into your preferred IDE and execute the code on game.py
 
 
 
